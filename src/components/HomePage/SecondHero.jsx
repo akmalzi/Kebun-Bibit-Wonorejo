@@ -21,7 +21,7 @@ function SecondHero() {
                 </p>
               </div>
             </div>
-            <div className="hidden lg:w-1/2 lg:flex justify-center bg-[url('./assets/heroImg/hero2-img.png')] rounded-3xl bg-cover min-h-[371px] shadow-2xl"></div>
+            <div className="hidden lg:w-1/2 lg:flex justify-center bg-[url('/assets/heroImg/hero2-img.png')] rounded-3xl bg-cover min-h-[371px] shadow-2xl"></div>
           </div>
         </SlideInUpAnimation>
       </section>
